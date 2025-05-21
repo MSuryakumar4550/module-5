@@ -29,7 +29,8 @@ int main()
 ```
 ## OUTPUT
 
-	  ![image](https://github.com/user-attachments/assets/2ac49d71-cf1f-4a81-8e4d-c3402ca08d03)
+![image](https://github.com/user-attachments/assets/5cd335d2-35a8-48f7-974b-b40c101803d0)
+
 
 
 
